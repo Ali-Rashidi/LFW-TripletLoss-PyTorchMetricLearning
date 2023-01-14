@@ -1,4 +1,4 @@
-# LFW-TripletLoss-Pyotrch
+# LFW , Triplet Loss , PyTorch
 Implementation of TripletLoss on LFW dataset using PyTorch Metric Learning. 
 
 features :
